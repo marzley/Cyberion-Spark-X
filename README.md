@@ -1,6 +1,6 @@
 
 
-<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/ql71vo.jpg" alt="02" border="0" /></a>                     
+<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">CYBERION-SPARK-X</h1>
   </a>
 
@@ -10,7 +10,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
+## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐒𝐏𝐀𝐑𝐊 𝐗 
 
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 
 
-## HOW TO GET CYBERION-SPARK-X
+## HOW TO GET SPARK-X-2025 
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -53,7 +53,7 @@
  
 
 
-  <a href="https://spark-x-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
+  <a href="https://spark-x-session-c.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -72,7 +72,7 @@
 
    💫IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tecch/deployment"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Slayer128/heroku-ios"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -89,6 +89,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/qoph4w.jpg" alt="02" border="0" /></a>                     
+<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">HAPPY HOLIDAY</h1>
   </a>
